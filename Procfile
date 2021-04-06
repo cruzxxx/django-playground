@@ -1,1 +1,1 @@
-web: gunicorn django-playground.wsgi:application
+web: gunicorn stefsstore.wsgi:application
